@@ -1,0 +1,30 @@
+_repo: Myths-of-the-NorsemenFrom-the-Eddas-and-Sagas_28497
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerber, H. A. (Hélène Adeline)
+    aliases:
+    - Guerber, Helene Adeline
+    - Guerber, Hélène Adeline
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '5313'
+    url: http://www.gutenberg.org/2009/agents/5313
+description: ''
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '2009-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse'
+- !lcc 'BL'
+title: 'Myths of the Norsemen: From the Eddas and Sagas'
+url: http://www.gutenberg.org/ebooks/28497

@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5313'
     url: http://www.gutenberg.org/2009/agents/5313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28497#Myths-of-the-NorsemenFrom-the-Eddas-and-Sagas
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2009-04-04'
 gutenberg_type: Text
